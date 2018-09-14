@@ -1,0 +1,13 @@
+maintainers:
+- Joel Martin (@kanaka)
+- Samuel Mannehed (@samhed)
+- Solly Ross (@directxman12)
+- Pierre Ossman (@CendioOssman)
+maintainersEmeritus:
+- @astrand 
+contributors:
+# There are a bunch of people that should be here.
+# If you want to be on this list, feel free send a PR
+# to add yourself.
+- jalf <git@jalf.dk>
+- NTT corp.
